@@ -4,4 +4,4 @@
 1. pull the code
 2. Install Node 
 3. run npm install
-4. run npx playwritght test
+4. run npx playwright test
