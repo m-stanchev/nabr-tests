@@ -1,0 +1,20 @@
+{
+  "customer_name": "Martin Stanchev",
+  "customer_email": "martin.stanchev@test.com",
+  "customer_phone": "000111222333",
+  "customer_message": "test",
+
+  "company_partner_name": "Company",
+  "partner_name": "Martin Stanchev",
+  "partner_title": "title",
+  "partner_email": "martin.stanchev@test.com",
+  "partner_phone": "000111222333",
+  "partner_message": "test",
+
+  "press_company_name": "Company",
+  "press_name": "Martin Stanchev",
+  "press_title": "title",
+  "press_email": "martin.stanchev@test.com",
+  "press_phone": "000111222333",
+  "press_message": "test"
+}
